@@ -1,2 +1,2 @@
 # Weilan
-I work whith ants
+I work with ants
